@@ -1,3 +1,3 @@
-# IITDUI--workflow
+# IITD--workflow
 
 #Bug Fixing, Testing, New Feauter.
